@@ -38,5 +38,5 @@ include(cmake_files/generic/package_build_api.cmake)
 
 
 # list all packages that we want to compile
-include(uefi_apps/lior_pkg.cmake)
+include(uefi_apps/hacks_pkg.cmake)
 
